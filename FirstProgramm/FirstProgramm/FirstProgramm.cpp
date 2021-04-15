@@ -8,7 +8,8 @@ int main()
 {
 	int num1, num2, sum;
 
-	cout << "Plese enter 2 numbers separeted by space:" << endl;
+	cout << "Plese enter 2 numbers";
+	cout << " separeted by space:" << endl;
 	cin >> num1 >> num2;
 	sum = num1 + num2;
 	cout << num1 << " + " << num2;
